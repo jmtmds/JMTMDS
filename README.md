@@ -2,7 +2,7 @@
 
 Eu sou <strong>João Marcos</strong>, <strong>Sempre em busca de novos desafios e oportunidades para crescer</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript, HTML</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>...</strong> 
 - 💬 Pergunte-me sobre: <strong>Games</strong>
 - 📣 Nós podemos falar em: <strong>PT-BR</strong>
 
