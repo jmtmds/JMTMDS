@@ -1,40 +1,48 @@
 # [JM] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" width="60px">
 
-[cite_start]<h1 align="center">Hey 👋 I'm João Marcos Tavares</h1> [cite: 1, 2]
+<h1 align="center">Hey 👋 I'm João Marcos Tavares</h1>
 
 ###
 
-[cite_start]<p align="center">📚 Estudante de ADS na Faculdade SENAC Pernambuco [cite: 12][cite_start]<br>💻 Desenvolvedor de Software & Residente no Porto Digital [cite: 3, 18]</p>
+<p align="center">
+  📚 Estudante de ADS na Faculdade SENAC Pernambuco<br>
+  💻 Desenvolvedor de Software<br>
+  🏗️ Residente no Porto Digital
+</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-[cite_start]<p align="left">✨ Apaixonado por tecnologia e pela criação de interfaces funcionais que resolvem problemas reais[cite: 10, 23]. [cite_start]<br>🚀 Atualmente, sou <b>Residente em Software no Porto Digital</b>, participando de uma formação técnica intensiva pela <b>Deloitte</b> na plataforma Oracle[cite: 18, 20]. [cite_start]<br>🛠️ Tenho experiência prática no desenvolvimento de interfaces educacionais para a <b>Accenture</b> e sistemas de gestão de ocorrências para o <b>Corpo de Bombeiros de Pernambuco (CBPMPE)</b>[cite: 22, 25, 26]. [cite_start]<br>📚 Foco atual: Aprofundar conhecimentos em <b>Java, TypeScript e React Native</b> para construir soluções mobile e escaláveis[cite: 31].</p>
+<p align="left">
+  ✨ Apaixonado por transformar ideias em interfaces funcionais e intuitivas. <br>
+  📚 Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na Faculdade SENAC PE. <br>
+  🏗️ Participante da Residência de Software Porto Digital, com formação técnica intensiva pela Deloitte na plataforma Oracle. <br>
+  💼 Experiência prática em projetos com parceiros estratégicos como Accenture e Corpo de Bombeiros de Pernambuco. <br>
+  🚀 Objetivos: Crescer no desenvolvimento Front-end (React/JS), aplicar metodologias ágeis e construir soluções de impacto tecnológico.
+</p>
 
 ###
 
-<h2 align="left">Conecte-se comigo</h2>
+<h2 align="left">Link with me</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jmtmds" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"  />
   </a>
+  <img width="12" />
   <a href="mailto:jm3tavares@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/5581995212147">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" height="40" alt="whatsapp logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left">Tecnologias e Ferramentas</h2>
+<h2 align="left">Work tools</h2>
 
 ###
 
@@ -63,21 +71,19 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmtmds/jmtmds/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmtmds/jmtmds/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jmtmds/jmtmds/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <p><b>Visitas no Perfil:</b></p>
+  <img src="https://komarev.com/ghpvc/?username=jmtmds&label=Perfil%20Visitas&color=radical&style=for-the-badge" alt="visitor counter" />
+</div>
 
 ###
 
 <div align="center">
-  <p><b>Contagem de Visitas</b></p>
-  <img src="https://profile-counter.glitch.me/jmtmds/count.svg" alt="Visitor Count" />
+  <img height="250" src="https://media.giphy.com/media/V4N533v9w4H6/giphy.gif" alt="coding cat gif" />
 </div>
 
 ###
 
 <p align="center">
-  🍳 <b>Curiosidade:</b> Sou formado em Gastronomia e amo cozinhar! Se o código não funcionar, pelo menos o jantar está garantido.
+  🍳 Curiosidade: Sou formado em Gastronomia e amo cozinhar! Se o código não funcionar, pelo menos o jantar está garantido.
 </p>
