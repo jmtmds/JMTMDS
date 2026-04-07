@@ -22,7 +22,7 @@
   📚 Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na Faculdade SENAC PE. <br>
   🏗️ Participante do programa de <b>Residência Tecnológica pelo Porto Digital</b>, com foco em formação técnica em <b>Oracle</b> pela <b>Deloitte</b>. <br>
   💼 Experiência prática em projetos com parceiros estratégicos como <b>Accenture</b> e <b>Corpo de Bombeiros de Pernambuco.</b> <br>
-  🚀 Objetivos: Evoluir profissionalmente, aplicando metodologias e boas práticas para desenvolver soluções que gerem impacto.
+  🚀 Objetivo: Evoluir profissionalmente, aplicando metodologias e boas práticas para desenvolver soluções que gerem impacto.
 </p>
 
 ###
@@ -63,6 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmtmds/jmtmds/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmtmds/jmtmds/output/pacman-contribution-graph.svg">
@@ -75,11 +77,11 @@
   ☕ <b>Curiosidade:</b> Sou formado em Gastronomia e amo cozinhar! Se o código não funcionar, pelo menos o jantar está garantido.
 </p>
 
-###
+---
 
 <div align="center">
   <p><b>Visitas no Perfil:</b></p>
-  <img src="https://komarev.com/ghpvc/?username=jmtmds&label=Perfil%20Visitas&color=radical&style=for-the-badge" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=jmtmds&label=VISITANTES&color=0e76a8&style=for-the-badge" alt="visitor counter" />
 </div>
 
 ###
